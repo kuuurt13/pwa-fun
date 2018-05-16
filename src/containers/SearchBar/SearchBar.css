@@ -1,0 +1,14 @@
+.search-bar {
+  position: fixed;
+  display: flex;
+  width: 100%;
+  bottom: 0;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  background: #fff
+}
+
+.search-bar input {
+  font-size: 1em;
+}

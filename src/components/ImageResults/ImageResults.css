@@ -1,0 +1,12 @@
+.image-results-container {
+  width: 100%;
+  overflow-y: auto;
+}
+
+.image-results {
+ white-space: nowrap
+}
+
+.image-results > img {
+  display: inline-block;
+}

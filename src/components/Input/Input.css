@@ -1,0 +1,33 @@
+.input-container {
+  height: 50px;
+  display: flex;
+  width: 100%;
+  margin: 0 auto;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;
+  transition: all 500ms linear;
+}
+
+.input-container > input {
+  width: 80%;
+  padding: 2px 20px;
+  font-size: 1.3em;
+  color: #333;
+}
+
+.input-container > input,
+.input-container > input:focus {
+  border: none;
+  outline: none;
+}
+
+.input-container > button {
+  width: 20%;
+  outline: none;
+  border: none;
+  font-size: 1em;
+  font-weight: bold;
+  background: #00bdd4;
+  border-radius: 0;
+  color: white;
+  text-align: center;
+}

@@ -1,0 +1,8 @@
+.image-scroll-container {
+  position: relative;
+  top: 48px;
+  height: 100%;
+  padding: 10px 0 48px 0;
+  overflow-y: scroll;
+  transition: all 500ms linear;
+}

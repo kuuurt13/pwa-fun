@@ -1,0 +1,9 @@
+.dialog-input {
+  font-size: 1em;
+  width: 100%;
+  background: #efefef;
+  padding: 8px;
+  outline: none;
+  border: none;
+  margin: 0 auto;
+}
